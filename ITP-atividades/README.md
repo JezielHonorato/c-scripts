@@ -1,0 +1,1 @@
+Exercicios referentes a disciplina de Introdução as Tecnicas de Programação - ITP, em que foi utilizada a linguagem C
